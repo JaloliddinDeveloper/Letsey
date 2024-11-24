@@ -1,0 +1,6 @@
+@Letsey_HostAddress = http://localhost:5044
+
+GET {{Letsey_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
