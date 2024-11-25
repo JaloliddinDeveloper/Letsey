@@ -2,6 +2,7 @@
 
 namespace Letsey.Controllers
 {
+
     [ApiController]
     [Route("[controller]")]
     public class HomeController : Controller
